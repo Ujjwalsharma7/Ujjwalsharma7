@@ -1,7 +1,5 @@
 # 💫 About Me:
-🎓 Pursuing Bachelors in ECE at National Insititute of Technology,Hamirpur<br>💼 Executive Member at Team Vibhav<br>🌱 I’m currently learning React.js, Three.js , Tensorflow<br> 🔭 I’m currently working on Full stack web development and Stagnography<br>
-
-
+🎓 pursuing Bachelors in ECE at National Insititute of Technology,Hamirpur<br>💼 Executive Member at Team Vibhav<br>🌱 I’m currently learning React.js, Three.js , Tensorflow<br> 🔭 I’m currently working on Full stack web development and Stagnography<br>
 
 
 ## 🌐 Socials:
@@ -18,4 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ujjwalsharma7&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ujjwalsharma7&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
